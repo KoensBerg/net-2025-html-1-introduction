@@ -5,7 +5,6 @@
 ### codepen
 [Моя папка](https://codepen.io/collection/eYNVGy) с исходными кодами и решениями.
 
----
 ### 1. Теги для разметки текста и атрибуты
 - [Задание](/tags-1-task/)
 - codepen
