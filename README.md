@@ -1,5 +1,7 @@
 # Основы вёрстки – Вводный курс
+Повторяю материал (2025)
 
+---
 ## codepen
 [Моя папка](https://codepen.io/collection/eYNVGy) с исходными кодами и решениями.
 
@@ -34,3 +36,5 @@
   - [решение](https://codepen.io/Oleg-Yanke/pen/wBvOWqZ)
   - [эталонное решение](https://codepen.io/Oleg-Yanke/pen/qEEgXYR)
 - [Комментарий](./text-2-reference/)
+
+---
